@@ -1,22 +1,25 @@
-# DashMatrix
-DashMatrix is a centralized enterprise dashboard platform built to manage dynamic user interfaces, role-based and user-based access control, and action-level authorization across multiple business applications.
+# Asset Management System
 
+Enterprise-grade Asset Management System.
 
+## Tech Stack
 
+- Backend: Node.js, Express, Sequelize, MySQL
+- Frontend: React, Redux, Tailwind
+- Auth: JWT based RBAC
 
-DashMatrix provides:
+## Modules
 
-Role-based access control (RBAC)
-User-based permission overrides (UBAC)
-Menu-level and module-level permission
-Action-based rights management:
-View
-Create
-Edit
-Delete
-Centralized authorization middleware
-Dynamic navigation rendering based on permissions
+- Admin
+- System
+- Master Data
+- Asset
+- Assignment
+- Procurement
+- Maintenance
+- Audit
+- Reports
 
-Secure multi-module dashboard framework
+## Status
 
-Scalable REST API backend for policy enforcement
+🚧 Under active development
